@@ -1,1 +1,29 @@
+body {
+    background-color: lightblue;
+}
 
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+    font-size: 150%;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
